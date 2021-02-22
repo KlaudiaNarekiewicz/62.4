@@ -48,8 +48,7 @@ void licz::trzy()
         }
     }
     cout<<"Liczby maja w obu plikach taka sama wartosc w "<<rowne<<" wierszach"<<endl;
-    cout<<"Wartosc liczby z pliku liczby1.txt jest wieksza od wartosci liczby z pliku liczby2.txt w "<<
-            wieksze<<" wierszach"<<endl;
+    cout<<"Wartosc liczby z pliku liczby1.txt jest wieksza od wartosci liczby z pliku liczby2.txt w "<<wieksze<<" wierszach"<<endl;
 
     plik1.close();
     plik2.close();
